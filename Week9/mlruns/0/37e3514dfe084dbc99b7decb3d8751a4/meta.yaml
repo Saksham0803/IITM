@@ -1,0 +1,14 @@
+artifact_uri: file:///home/jupyter/Week5/mlruns/0/37e3514dfe084dbc99b7decb3d8751a4/artifacts
+end_time: 1753632539536
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 37e3514dfe084dbc99b7decb3d8751a4
+run_name: agreeable-stag-165
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1753632516333
+status: 3
+tags: []
+user_id: jupyter
